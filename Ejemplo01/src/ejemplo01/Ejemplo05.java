@@ -27,6 +27,9 @@ public class Ejemplo05 {
         System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
                 "\n"+ nacimiento); */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);
+        /*
+        \t nos ayuda a separar las variables mientras que \n\t nos ayuda a separar peroi en la linea de mas abajo 
+        */
     }
 }
