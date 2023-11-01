@@ -25,7 +25,7 @@ public class Ejemplo3 {
         double notaAsignatura1;
         double notaAsignatura2;
         String nombreEstudiante;
-        
+       
         System.out.println("Ingrese nombre de asignatura 1");
         nombreAsignatura1 = entrada.nextLine();
         System.out.println("Ingrese nombre de asignatura 2");
